@@ -24,19 +24,19 @@ The dataset includes campaigns targeted across different locations such as Germa
 
 This bar chart visualizes the **Cost per Profile Visit** for each campaign. The height of the bars shows how efficiently each campaign managed to convert advertisement spending into profile visits. Value labels on each bar show the exact cost (€).
 
-![Cost per Profile Visit by Campaign](path_to_screenshot_1)
+![Cost per Profile Visit by Campaign](viz/screenshot1.png)
 
 ### 2. **Geographic Efficiency Comparison (Updated)**
 
 This visualization compares the **Cost per Profile Visit** across different locations. An average value for **Germany** is computed and included in the comparison. This chart helps identify which geographic regions offer the best cost efficiency.
 
-![Cost per Profile Visit by Location](path_to_screenshot_2)
+![Cost per Profile Visit by Location](viz/screenshot2.png)
 
 ### 3. **Post Type Efficiency**
 
 This scatter plot compares the efficiency of different post types, using **Cost per Profile Visit** as the efficiency metric. Each point represents a campaign, and the size of the points is based on the number of **Profile Visits**. The color represents the **Spent** amount, with a legend to contextualize the total ad spend per post type.
 
-![Post Type Efficiency](path_to_screenshot_3)
+![Post Type Efficiency](viz/screenshot3.png)
 
 ## Analysis Highlights
 
